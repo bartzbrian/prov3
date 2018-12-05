@@ -1,0 +1,1 @@
+# Python code for provocation three in critical practices. basically a pygame loop run on a raspberry pi that cycles through a directory of images based on button presses from arcade buttons hooked to the rpi's GPIO. Neopixel ring also hooked up to GPIO changes colors as loop proceeds. 
